@@ -13,7 +13,7 @@ Contributions are greatly welcomed! Please feel free to chat with me, raise an i
 
 ## Overview
 
-AI alignment is a young field. Different researchers may have very different researchers perspectives on what the future path of AI alignment looks like. In the following materials, we may learn about their inspiring perspectives and research agendas, and formulate our own.
+AI alignment is a young field. Different researchers may have very different research perspectives on what the future path of AI alignment looks like. In the following materials, we may learn about their inspiring perspectives and research agendas, and formulate our own.
 
 - ***The Alignment Problem from a Deep Learning Perspective** (2023)* [[paper]](https://arxiv.org/abs/2209.00626) Assume that AGI is trained using RL-like methods, how to due with resulting issues like situationally-aware reward hacking, misaligned internally-represented goals, and power-seeking during deployment?
 - ***Measuring Progress on Scalable Oversight for Large Language Models** (2022)* [[paper]](https://arxiv.org/abs/2211.03540) Human supervision is limited, then how can we align models at scale?
