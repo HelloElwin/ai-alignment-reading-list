@@ -24,4 +24,16 @@ AI alignment is a young field. Different researchers may have very different res
 
 ## People
 
-todo
+An incomplete list of leading researchers in AI alignment. Still in construction.
+
+### University
+
+- [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu)
+- [Sam Bowman](https://cims.nyu.edu/~sbowman/)
+- [David Krueger](https://www.davidscottkrueger.com)
+
+### Industry
+
+- [Jan Leike](https://jan.leike.name)
+- [Richard Ngo](https://www.richardcngo.com)
+- [Paul Christiano](https://paulfchristiano.com)
