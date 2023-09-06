@@ -1,6 +1,6 @@
 # AI Alignment Reading List
 
-Works for A(G)I can be roughly classified into two categories: making AI more capable, or making it more aligned. While AGI has yet to arrive, its risks are sufficiently high that alignment research with foresight cannot be disregarded or postponed.
+Works for A(G)I can be roughly classified into two categories: making AI more capable, or making it safer and more aligned. While AGI has yet to arrive, its risks are sufficiently high that alignment research with foresight cannot be disregarded or postponed.
 
 As a newcomer to this growing field, I find it hard to navigate through the abundant work, many of which are written as informal posts. Therefore, to help myself and other junior researchers like me, I am maintaining this collection of 
 
