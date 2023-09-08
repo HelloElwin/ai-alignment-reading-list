@@ -2,7 +2,7 @@
 
 Works for A(G)I can be roughly classified into two categories: making AI more capable, or making it safer and more aligned. While AGI has yet to arrive, its risks are sufficiently high that alignment research with foresight cannot be disregarded or postponed.
 
-As a newcomer to this growing field, I find it hard to navigate through the abundant work, many of which are written as informal posts. Therefore, to help myself and other junior researchers like me, I am maintaining this collection of 
+As a newcomer to this growing field, I find it hard to navigate through the abundant work, many of which are written as informal posts. Therefore, to help myself and other junior researchers like me, I am maintaining this (personal and subjective) collection of 
 
 - Writings on AI alignment (papers, forum posts, blog posts, etc.)
 - Talks, panels, and seminars on AI alignment
@@ -21,6 +21,14 @@ AI alignment is a young field. Different researchers may have very different res
 - ***The Alignment Workshop** (2023)* [[talks]](https://www.alignment-workshop.com) Researchers from top industry AI labs (OpenAI, DeepMind, Anthropic) and universities (Cambridge, NYU) co-organized a two-day invite-only alignment workshop. It provides a window into how leading researchers are grappling with one of the most pressing problems of our time.
 - ***Concrete Problems in AI Safety** (2016)* [[paper]](https://arxiv.org/abs/1606.06565)
 - ***Unsolved Problems in ML Safety** (2022)* [[paper]](https://arxiv.org/abs/2109.13916)
+
+## Reward hacking
+
+- ***Do the Reward Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior...** (2023)* [[paper]](https://arxiv.org/abs/2304.03279) Evaluate how LLMs trade off rewards and ethics in a set of Choose-Your-Own-Adventure games and tried some improvements. Harmful and power-seeking behaviors etc. are mathematically formalized.
+
+## Scalable oversight
+
+- ***Constitutional AI: Harmlessness from AI Feedback** (2022)* [[paper]](https://arxiv.org/abs/2212.08073) Training a harmless AI assistant through self-improvement based on a list of human-designed rules.
 
 ## People
 
