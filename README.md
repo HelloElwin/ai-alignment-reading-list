@@ -22,13 +22,13 @@ AI alignment is a young field. Different researchers may have very different res
 - ***Concrete Problems in AI Safety** (2016)* [[paper]](https://arxiv.org/abs/1606.06565)
 - ***Unsolved Problems in ML Safety** (2022)* [[paper]](https://arxiv.org/abs/2109.13916)
 
-## Reward hacking
-
-- ***Do the Reward Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior...** (2023)* [[paper]](https://arxiv.org/abs/2304.03279) Evaluate how LLMs trade off rewards and ethics in a set of Choose-Your-Own-Adventure games and tried some improvements. Harmful and power-seeking behaviors etc. are mathematically formalized.
-
 ## Scalable oversight
 
 - ***Constitutional AI: Harmlessness from AI Feedback** (2022)* [[paper]](https://arxiv.org/abs/2212.08073) Training a harmless AI assistant through self-improvement based on a list of human-designed rules.
+
+## Reward hacking
+
+- ***Do the Reward Justify the Means? Measuring Trade-Offs Between...** (2023)* [[paper]](https://arxiv.org/abs/2304.03279) Evaluate how LLMs trade off rewards and ethics in a set of Choose-Your-Own-Adventure games and tried some improvements. Harmful and power-seeking behaviors etc. are mathematically formalized.
 
 ## People
 
