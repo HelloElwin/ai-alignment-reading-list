@@ -15,19 +15,21 @@ Contributions are greatly welcomed! Please feel free to chat with me, raise an i
 
 AI alignment is a young field. Different researchers may have very different research perspectives on what the future path of AI alignment looks like. In the following materials, we may learn about their inspiring perspectives and research agendas, and formulate our own.
 
-- ***The Alignment Problem from a Deep Learning Perspective** (2023)* [[paper]](https://arxiv.org/abs/2209.00626) Assume that AGI is trained using RL-like methods, how can we due with resulting issues like situationally-aware reward hacking, misaligned internally-represented goals, and power-seeking during deployment? This work explains these challenges and introduces possible solutions.
-- ***Measuring Progress on Scalable Oversight for Large Language Models** (2022)* [[paper]](https://arxiv.org/abs/2211.03540) Human supervision is limited, then how can we scalably align models that are more capable than us? This work lays out a research agenda based on Cotra's sandwiching proposal and performs a relaxed experiment with LLMs.
-- ***Current Work in AI Alignment** (2019)* [[talk]](https://www.youtube.com/watch?v=-vsYtevJ2bc) [[post&discussions]](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment) Paul Christiano's framing of his research agenda in 2019.
+I am currently exploring two main topics: [Scalable oversight](#scalable-oversight) and [reward hacking](reward-hacking). Many other interesting topics are covered in:
+
 - ***The Alignment Workshop** (2023)* [[talks]](https://www.alignment-workshop.com) Researchers from top industry AI labs (OpenAI, DeepMind, Anthropic) and universities (Cambridge, NYU) co-organized a two-day invite-only alignment workshop. It provides a window into how leading researchers are grappling with one of the most pressing problems of our time.
+- ***Current Work in AI Alignment** (2019)* [[talk]](https://www.youtube.com/watch?v=-vsYtevJ2bc) [[post&discussions]](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment) Paul Christiano's framing of his research agenda in 2019.
 - ***Concrete Problems in AI Safety** (2016)* [[paper]](https://arxiv.org/abs/1606.06565)
 - ***Unsolved Problems in ML Safety** (2022)* [[paper]](https://arxiv.org/abs/2109.13916)
 
 ## Scalable oversight
 
+- ***Measuring Progress on Scalable Oversight for Large Language Models** (2022)* [[paper]](https://arxiv.org/abs/2211.03540) Human supervision is limited, then how can we scalably align models that are more capable than us? This work lays out a research agenda based on Cotra's sandwiching proposal and performs a relaxed experiment with LLMs.
 - ***Constitutional AI: Harmlessness from AI Feedback** (2022)* [[paper]](https://arxiv.org/abs/2212.08073) Training a harmless AI assistant through self-improvement based on a list of human-designed rules.
 
 ## Reward hacking
 
+- ***The Alignment Problem from a Deep Learning Perspective** (2023)* [[paper]](https://arxiv.org/abs/2209.00626) Assume that AGI is trained using RL-like methods, how can we due with resulting issues like situationally-aware reward hacking, misaligned internally-represented goals, and power-seeking during deployment? This work explains these challenges and introduces possible solutions.
 - ***Do the Reward Justify the Means? Measuring Trade-Offs Between...** (2023)* [[paper]](https://arxiv.org/abs/2304.03279) Evaluate how LLMs trade off rewards and ethics in a set of Choose-Your-Own-Adventure games and tried some improvements. Harmful and power-seeking behaviors etc. are mathematically formalized.
 
 ## People
