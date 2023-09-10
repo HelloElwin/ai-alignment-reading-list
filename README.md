@@ -15,7 +15,7 @@ Contributions are greatly welcomed! Please feel free to chat with me, raise an i
 
 AI alignment is a young field. Different researchers may have very different research perspectives on what the future path of AI alignment looks like. In the following materials, we may learn about their inspiring perspectives and research agendas, and formulate our own.
 
-I am currently exploring two main topics: [Scalable oversight](#scalable-oversight) and [reward hacking](reward-hacking). Many other interesting topics are covered in:
+I am currently exploring two main topics: [Scalable oversight](#scalable-oversight) and [reward hacking](#reward-hacking). Many other interesting topics are covered in:
 
 - ***The Alignment Workshop** (2023)* [[talks]](https://www.alignment-workshop.com) Researchers from top industry AI labs (OpenAI, DeepMind, Anthropic) and universities (Cambridge, NYU) co-organized a two-day invite-only alignment workshop. It provides a window into how leading researchers are grappling with one of the most pressing problems of our time.
 - ***Current Work in AI Alignment** (2019)* [[talk]](https://www.youtube.com/watch?v=-vsYtevJ2bc) [[post&discussions]](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment) Paul Christiano's framing of his research agenda in 2019.
